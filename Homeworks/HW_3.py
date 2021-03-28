@@ -1,16 +1,12 @@
 
-
-
-
-
+ 
 """
 Course Date: 22.03.2021
 Name: Özlem
 Surname: Çağırıcı
 Email: ozlemilgun@gmail.com
-
-
 """
+**************************HOMEWORK - 3 *************************
 
 # Import necessary libraries
 
