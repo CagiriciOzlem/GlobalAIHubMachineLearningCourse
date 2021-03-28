@@ -3,7 +3,7 @@
 
 **Course Date:** 22.03.2021  
 **Name:** Özlem  
-**Surname:** Çağırı  
+**Surname:** Çağırıcı 
 **Email:** ozlemilgun@gmail.com  
 
 **Note:** Your homeworks can be formats like ".ipynb" and ".py". **Not ".txt" files!!** Make sure that your codes works.  
